@@ -13,3 +13,6 @@ This project focuses on evaluating key business areas, including:
 3) Marketplace Analysis: Contribution of platforms like Amazon, Myntra, and Flipkart
 4) Geographical Performance: Top-performing shipping states
 5) Operational Efficiency: Order status including delivered, cancelled, refunded, and returned
+
+<h4>E-Commerce Business Insight and Dashboard</h4>
+<img src="B-Store- Dashboard.jpg">
