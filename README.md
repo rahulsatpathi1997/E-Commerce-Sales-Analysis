@@ -16,3 +16,7 @@ This project focuses on evaluating key business areas, including:
 
 <h4>E-Commerce Business Insight and Dashboard</h4>
 <img src="B-Store- Dashboard.jpg">
+
+# Business Insight
+This project demonstrates how data visualization and analysis can transform raw business data into meaningful insights. The dashboard enables stakeholders to monitor performance, identify trends, and make informed strategic decisions to drive business growth.
+Link - <a href="B-Store Sales & Performance Analysis.pdf">
